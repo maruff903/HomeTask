@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# projects\homeTask\bin\Debug\net10.0\homeTask.exe
+C:\Users\Admin\Desktop\C# projects\homeTask\bin\Debug\net10.0\homeTask.deps.json
+C:\Users\Admin\Desktop\C# projects\homeTask\bin\Debug\net10.0\homeTask.runtimeconfig.json
+C:\Users\Admin\Desktop\C# projects\homeTask\bin\Debug\net10.0\homeTask.dll
+C:\Users\Admin\Desktop\C# projects\homeTask\bin\Debug\net10.0\homeTask.pdb
+C:\Users\Admin\Desktop\C# projects\homeTask\obj\Debug\net10.0\homeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# projects\homeTask\obj\Debug\net10.0\homeTask.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# projects\homeTask\obj\Debug\net10.0\homeTask.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# projects\homeTask\obj\Debug\net10.0\homeTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# projects\homeTask\obj\Debug\net10.0\homeTask.dll
+C:\Users\Admin\Desktop\C# projects\homeTask\obj\Debug\net10.0\refint\homeTask.dll
+C:\Users\Admin\Desktop\C# projects\homeTask\obj\Debug\net10.0\homeTask.pdb
+C:\Users\Admin\Desktop\C# projects\homeTask\obj\Debug\net10.0\homeTask.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# projects\homeTask\obj\Debug\net10.0\ref\homeTask.dll
